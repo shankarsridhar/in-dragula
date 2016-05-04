@@ -1,7 +1,7 @@
 {
   "name": "in-dragula.js",
-  "version": "3.6.8",
-  "description": "Drag and drop so simple it hurts",
+  "version": "3.6.9",
+  "description": "This is a fork of dragula.js (v3.6.8) - Main diff is callbacks will have an extra param - 'event'",
   "main": [
     "dist/dragula.js",
     "dist/dragula.css"
